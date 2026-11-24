@@ -35,7 +35,7 @@ dependencies = [
     "packaging==26.0",
     "id==1.6.1",
     "dirty-equals==0.11",
-    "pyjwt==2.13.0",
+    "pyjwt==2.15.0",
     "pyx-member-04",
 ]
 
